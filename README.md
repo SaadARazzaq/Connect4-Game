@@ -85,6 +85,11 @@ When you start the game, you will be presented with the main menu. You have the 
 ![image](https://github.com/SaadARazzaq/Connect4-Game/assets/123338307/d7003b55-c5f6-4b10-a91f-4a6c98756a79)
 ![image](https://github.com/SaadARazzaq/Connect4-Game/assets/123338307/ebd4a515-787b-4d73-8e30-2fce74f4fbd5)
 
+## Test Cases:
+
+![image](https://github.com/SaadARazzaq/Connect4-Game/assets/123338307/20ceea47-2f62-4381-886c-f5829b3ffe83)
+![image](https://github.com/SaadARazzaq/Connect4-Game/assets/123338307/fc552336-24f7-43f6-adee-3a41f29db083)
+
 ## Developer Notes
 
 - The game uses a 6x7 grid to represent the Connect 4 board.
