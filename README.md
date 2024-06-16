@@ -2,6 +2,8 @@
 
 Welcome to Connect 4, a classic two-player game now available in a Command Line Interface (CLI) version! In this game, you can choose to play against another player or challenge the computer. The objective is to connect four of your tokens in a row, either horizontally, vertically, or diagonally.
 
+![image](https://github.com/SaadARazzaq/Connect4-Game/assets/123338307/50ca5e8f-a9be-4c14-900e-a44039346328)
+
 ## Features
 
 - Two-player mode
