@@ -3,8 +3,6 @@
 Connect 4 Game:
 Programming Language: Python
 Interface: CLI based
-Student Name: Aisha Abdi
-Student ID: 22160571
 
 '''
 
